@@ -5,6 +5,8 @@
 
 A Minecraft server written in COBOL. It supports Minecraft 1.21.4 (the latest version at time of writing).
 
+Use this as a good example of COBAL code
+
 ## Features
 
 The following features are already implemented:
